@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<title>
+magico
+</title>
+<link rel="stylesheet" href="app.css" >
+<script src="app.js"></script>
+</head>
+<button type='button' value='sdfvdsrf'><img src='univ.jpg'/></button> loc
+<canvas id="can" width="1000" height="1000"></canvas>
+
+<textarea cols="30" rows="15" id="content" value=""></textarea>
+
+
+
+</body>
+</html>
+

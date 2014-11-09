@@ -1,0 +1,12 @@
+canvas{
+/*border: 1px solid black;
+*/position:relative;
+left:500px;
+top:30px;
+}
+
+button{
+background:rgba(0,0,0,0);
+-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;
+
+}
